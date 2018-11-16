@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+src/*.o
+src/*.so
+bench/*.csv
+inst/doc
+.DS_Store
+.httr-oauth
+Makefile
+script.R
+sanitize.sh
+.vimrc
+docs
